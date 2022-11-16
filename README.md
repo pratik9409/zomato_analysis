@@ -51,16 +51,16 @@ When rating is 4.5 to 4.9 it is Excellent<br>
 
 ![aggregate_rating](https://user-images.githubusercontent.com/67755812/202264003-ba444b56-6da7-4d4a-a248-070efd2f349c.png)
 
-Not Rated count is Very High as we can see in blue.
-Maximum number of ratings are between 2.5 to 4.1
+Not Rated count is Very High as we can see in blue.<br>
+Maximum number of ratings are between 2.5 to 4.1<br>
 
 ![ratings](https://user-images.githubusercontent.com/67755812/202264752-2a12d993-dc0d-48ba-9372-563082741735.png)
 
 
-Top 5 StateWise Zomato users
+Top 5 StateWise Zomato users<br>
 ![pie](https://user-images.githubusercontent.com/67755812/202264276-1c399168-ce1f-45af-a376-7562ba712ed0.png)
 
-Top 10 Cuisines 
+Top 10 Cuisines <br>
 ![cuisines](https://user-images.githubusercontent.com/67755812/202264657-e622170f-cf6b-43db-a508-91b8145f6483.png)
 
 
