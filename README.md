@@ -56,7 +56,6 @@ Maximum number of ratings are between 2.5 to 4.1
 
 ![ratings](https://user-images.githubusercontent.com/67755812/202264752-2a12d993-dc0d-48ba-9372-563082741735.png)
 
-![ratings](https://user-images.githubusercontent.com/67755812/202264228-2795b40b-b434-48dc-9011-ed902efc0322.png)
 
 Top 5 StateWise Zomato users
 ![pie](https://user-images.githubusercontent.com/67755812/202264276-1c399168-ce1f-45af-a376-7562ba712ed0.png)
